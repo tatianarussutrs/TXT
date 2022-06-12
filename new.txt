@@ -1,4 +1,5 @@
-1) Tatiana Vlasenko
-2) 30 y.o.
-3) don't have any pets
-4) sallary doesn't matter
+Name:Tatiana
+Surname:Vlasenko
+age:30
+pets:1
+salary:3000
